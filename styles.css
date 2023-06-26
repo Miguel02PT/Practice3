@@ -55,7 +55,7 @@ body {
     height: 100%;
 }
 
-#add-tbn:hover {
+#add-btn:hover {
     background-color: #34073D;
     color: #fff;
 }
